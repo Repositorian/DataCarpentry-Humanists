@@ -35,7 +35,7 @@ In this lesson, we’re going to talk about:
 
 Two relevant references for further information about tidy data and spreadsheet best practices we recommend:
 - Wickham, Hadley. "Tidy Data" *Journal of Statistical Software* \[Online\], Volume 59, Issue 10 (12 September 2014). 	https://doi.org/10.18637/jss.v059.i10
-- White, Ethan P. White, Baldridge1, elita, Brymn, Zachary T. et al. "Nine simple ways to make it easier to (re)use your data" *Ideas in Ecology and Evolution* \[Online\],  Vol 6, No 2 (2013). https://doi.org/:10.4033/iee.2013.6b.6.f
+- White, Ethan P. White, Baldridge1, elita, Brymn, Zachary T. et al. "Nine simple ways to make it easier to (re)use your data" *Ideas in Ecology and Evolution* \[Online\],  Vol 6, No 2 (2013). http://ojs.library.queensu.ca/index.php/IEE/article/view/4608, last accessed April 30, 2017.
 
 *Overall good data practices*
 
