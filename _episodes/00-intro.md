@@ -10,11 +10,9 @@ keypoints:
 - "Good data organization is the foundation of any research project."
 ---
 ### Credits
-Adpated from Data Carpentry Ecology Lesson (https://github.com/datacarpentry/spreadsheet-ecology-lesson) by: **Gail Clement**
-
-Authors of original Data Carpentry Ecology Lesson:**Christie Bahlai**, **Aleksandra Pawlik**<br>
-Contributors to original Data Carpentry Ecology Lesson: **Jennifer Bryan**, **Alexander Duryee**, **Jeffrey Hollister**, **Daisie Huang**, **Owen Jones**, **Clare Sloggett**, **Harriet Dashnow** and
-**Ben Marwick**
+- Adapted from Data Carpentry Ecology Lesson (https://github.com/datacarpentry/spreadsheet-ecology-lesson) by: **Gail Clement**
+- Authors of original Data Carpentry Ecology Lesson:**Christie Bahlai**, **Aleksandra Pawlik**<br>
+- Contributors to original Data Carpentry Ecology Lesson: **Jennifer Bryan**, **Alexander Duryee**, **Jeffrey Hollister**, **Daisie Huang**, **Owen Jones**, **Clare Sloggett**, **Harriet Dashnow** and **Ben Marwick**
 
 
 
@@ -34,6 +32,11 @@ In this lesson, we’re going to talk about:
 - Dates as data - beware!
 - Basic quality control and data manipulation in spreadsheets
 - Exporting data from spreadsheets for use in other applications
+
+Two relevant references for further information about tidy data and spreadsheet best practices we recommend:
+- Tidy Data
+- How to handle null values
+
 
 *Overall good data practices*
 
