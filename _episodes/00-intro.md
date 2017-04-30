@@ -1,7 +1,7 @@
 ---
 title: "Introduction"
 teaching: 15
-exercises: 3
+exercises: 0
 questions:
 - "What are basic principles for using spreadsheets for good data organization?"
 objectives:
@@ -9,8 +9,9 @@ objectives:
 keypoints:
 - "Good data organization is the foundation of any research project."
 ---
-
+### Credits
 Adpated from Data Carpentry Ecology Lesson (https://github.com/datacarpentry/spreadsheet-ecology-lesson) by: **Gail Clement**
+
 Authors of original Data Carpentry Ecology Lesson:**Christie Bahlai**, **Aleksandra Pawlik**<br>
 Contributors to original Data Carpentry Ecology Lesson: **Jennifer Bryan**, **Alexander Duryee**, **Jeffrey Hollister**, **Daisie Huang**, **Owen Jones**, **Clare Sloggett**, **Harriet Dashnow** and
 **Ben Marwick**
