@@ -18,9 +18,8 @@ keypoints:
 
 ### Spreadsheet Overview
 
-Good data organization is the foundation of any research project. Many researchers maintain their data or perform data entry in
-spreadsheets. Spreadsheet programs are very useful graphical interfaces for designing data tables and handling very basic data
-quality control functions. This lesson highlights best practices for maintainting data tables in spreadsheets to faciliate downstream enhancement and  analysis, by both humans and machines.
+Good data organization is the foundation of any research project. Many curators and researchers maintain their data or perform data entry in spreadsheets. Spreadsheet programs are very useful graphical interfaces for designing data tables and handling very basic data
+quality control functions. This lesson highlights best practices for maintainting data tables in spreadsheets to faciliate downstream enhancement and analysis, by both humans and machines.
 
 
 ### Spreadsheet Outline
@@ -31,7 +30,7 @@ In this lesson, we’re going to talk about:
 - How to avoid common formatting mistakes
 - Dates as data - beware!
 - Basic quality control and data manipulation in spreadsheets
-- Exporting data from spreadsheets for use in other applications
+- Exporting data from spreadsheets in plain text format(s) for use in other applications
 
 Two relevant references for further information about tidy data and spreadsheet best practices we recommend:
 - Wickham, Hadley. "Tidy Data" *Journal of Statistical Software* \[Online\], Volume 59, Issue 10 (12 September 2014). 	https://doi.org/10.18637/jss.v059.i10
@@ -40,17 +39,16 @@ Two relevant references for further information about tidy data and spreadsheet 
 *Overall good data practices*
 
 Spreadsheets are good for data entry. Therefore we have a lot of data in spreadsheets. 
-Much of your time as a researcher will be spent in this 'data wrangling' stage.
-It's not the most fun, but it's necessary. We'll teach you how to think
-about data organization and some practices for more effective data wrangling.
+Much of your time as a researcher will be spent in this 'data wrangling' stage amking sure that the data is complete, clean, consistent, and clearly organized so that subsequent steps in your research pipeline will go smoothly and accurately.
+In this lesson we'll teach you how to think about data organization and some practices for more effective data wrangling.
 
-### What this lesson will not teach you
+### What this lesson will *not* teach you
 
 - How to do *statistics* in a spreadsheet
 - How to do *plotting* in a spreadsheet
 - How to *write code* in spreadsheet programs
 
-If you're looking to do this, a good reference is
+If you're looking to do the above processes, a good reference is
 [Head First Excel](https://www.amazon.com/Head-First-Excel-learners-spreadsheets/dp/0596807694/ref=sr_1_1?ie=UTF8&qid=1491594584&sr=8-1&keywords=head+first+excel), published by O'Reilly
 
 ---
