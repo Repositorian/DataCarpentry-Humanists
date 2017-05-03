@@ -10,8 +10,8 @@ keypoints:
 - "Good data organization is the foundation of any research project."
 ---
 ### Credits
-- Adapted from Data Carpentry Ecology Lesson (https://github.com/datacarpentry/spreadsheet-ecology-lesson) by: **Gail Clement**
-- Authors of original Data Carpentry Ecology Lesson:**Christie Bahlai**, **Aleksandra Pawlik**<br>
+- Adapted from Data Carpentry Ecology Lesson (https://github.com/datacarpentry/spreadsheet-ecology-lesson) by: **Gail Clement** and **Donna Wrublewski**
+- Authors of original Data Carpentry Ecology Lesson: **Christie Bahlai**, **Aleksandra Pawlik**<br>
 - Contributors to original Data Carpentry Ecology Lesson: **Jennifer Bryan**, **Alexander Duryee**, **Jeffrey Hollister**, **Daisie Huang**, **Owen Jones**, **Clare Sloggett**, **Harriet Dashnow** and **Ben Marwick**
 
 
@@ -39,7 +39,7 @@ Two relevant references for further information about tidy data and spreadsheet 
 *Overall good data practices*
 
 Spreadsheets are good for data entry. Therefore we have a lot of data in spreadsheets. 
-Much of your time as a researcher will be spent in this 'data wrangling' stage amking sure that the data is complete, clean, consistent, and clearly organized so that subsequent steps in your research pipeline will go smoothly and accurately.
+Much of your time as a researcher will be spent in this 'data wrangling' stage making sure that the data is complete, clean, consistent, and clearly organized so that subsequent steps in your research pipeline will go smoothly and accurately.
 In this lesson we'll teach you how to think about data organization and some practices for more effective data wrangling.
 
 ### What this lesson will *not* teach you
@@ -75,7 +75,7 @@ Spreadsheets are popular researcher tools because they encompass a lot of the th
 - Statistics
 - Plotting
 
-## Problems with Spreadsheets
+## Limitations of Spreadsheets
 
 Spreadsheets are good for data entry, but in reality we tend to
 use spreadsheet programs for much more than data entry. We use them
